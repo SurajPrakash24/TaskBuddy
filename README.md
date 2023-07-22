@@ -1,4 +1,7 @@
-# TaskBuddy: Task-manager application built using MERN stack
+# TaskBuddy
+
+> Task-manager application built using MERN stack
+
 
 ### Link: https://taskbuddyapp.netlify.app/
 
